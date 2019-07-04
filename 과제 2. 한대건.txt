@@ -1,0 +1,6 @@
+1. 데이터를 import 한다.
+2. summarize 해서 데이터를 보니 missing value 값이 400개가 있었다.
+3. 그래서 clean missing data를 이용해서 missing value 들을 없앤 다음
+4.  summarize 하고 시각화해서 보니 outstandingbalance field 에 max value 28280 의 outlier가 있었다.
+5. 그래서 outlier 도 없애기 위해 clip values 를 통해 constant value 를 25000으로 주고 substitute 값을 평균으로 주었다.
+6. 그리고 실행하니 missing value도 없고 평균도 25000이 안넘게 된 결과물을 얻을 수 있었다.

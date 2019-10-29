@@ -3,6 +3,9 @@
 
 
 자료구조, 리스트 ,스택 Q 
+
 Mysql 
+
 Microsoft Azure  
+
 machine learning

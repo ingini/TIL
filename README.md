@@ -8,4 +8,14 @@ Mysql
 
 Microsoft Azure  
 
-machine learning
+machine learning - sklearn
+
+Embedding
+
+1_사전처리
+2_빈도분석
+3_군집분석
+4_토픽모델링
+5_감성분석
+
+데이터 시각화 예제코드 
